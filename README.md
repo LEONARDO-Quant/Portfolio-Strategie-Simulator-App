@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/banner" alt="Bannière du projet" width="1000" height="250"/>
+  <img src="docs/banner" alt="Bannière du projet" width="1000" height="250"/>
 </p> 
 
 # Portfolio Strategy Simulator
@@ -40,7 +40,7 @@ Ce projet vise à fournir une analyse stratégique permettant de maximiser le re
 3. Recommandations d’allocation optimisée pour maximiser le rendement/risk ratio.
 
 <p align="center">
-  <img src="Images/courbe" width="800" height="250"/> 
+  <img src="docs/courbe" width="800" height="250"/> 
 </p> 
 
 
