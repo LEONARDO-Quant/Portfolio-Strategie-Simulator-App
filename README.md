@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ## Structure
 
 ```
-portfolio_simulator_v2_modular/
+Portfolio-Strategie-Simulator-App/
 ├─ app.py                # Lanceur Streamlit
 ├─ docs/
 ├─ src/
